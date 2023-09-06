@@ -1,4 +1,4 @@
-#include "Kalman.h"
+#include "kalman.h"
 
 Kalman::Kalman() {
     /* We will set the variables like so, these can also be tuned by the user */
