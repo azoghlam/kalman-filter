@@ -1,5 +1,5 @@
 from kalmanh import KalmanAngle
-import smbus			#import SMBus module of I2C
+import smbus2			#import SMBus module of I2C
 import time
 import math
 
